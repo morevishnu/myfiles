@@ -1,0 +1,9 @@
+{
+	"name": "more125",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "63d3a02c-458e-4611-a5fb-3634a2c1e17b",
+		"tenantId": "496b1542-f2ba-45c7-b015-6cb3d8be7505"
+	}
+}
